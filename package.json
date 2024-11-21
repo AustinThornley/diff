@@ -1,0 +1,19 @@
+{
+  "name": "diff-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.9.1"
+  },
+  "dependencies": {
+    "diff": "^7.0.0"
+  }
+}
